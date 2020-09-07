@@ -1,0 +1,2 @@
+male, 5094053, House, 96 Cassandra Ave, 2039, 50.0, 1000.0, 2020/09/04, Neo, Setai, Setai@gmail.com, 0764224847, 97 Allan road, Paul, Wild, pwild@gmail.com, 0836099577, 20 carnal street, Bill, Gates, tom@gmail.com, 0836099577, 20 bill road
+House Mothogoane, 1234567, House, 21 Jump street, 12345, 30000.0, 40000.0, 2020/10/04, Tlholo, Mothogoane, mothogoane@gmail.com, 0764224847, 96 Cassandra Ave, Neo, Setai, Setai@gmail.com, 0824757473, 83 Bossmas street, Bonolo, Setai, bonolo@gmail.com, 0835099422, 89 Ellen road
